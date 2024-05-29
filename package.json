@@ -1,5 +1,5 @@
 {
-  "name": "@shopware-ag/webpack-copy-after-build",
+  "name": "@haokeyingxiao/webpack-copy-after-build",
   "version": "1.0.1",
   "description": "Copies files after a webpack build was finished",
   "main": "index.js",
